@@ -7,4 +7,15 @@ Just download KoboRoot.tgz from releases and put it into (eReader)/.kobo dir.
 * Kobo Clara Colour
 # Languages
 * German
-* English (coming soon)
+* English
+
+# Coming soon
+Because Lollipop is still in beta, here are some features the next versions will have:
+- Bookshelf sync (Bookorbit, Kobo, Amazon, Libby[?])
+- Own reading engine
+- Multi user
+- MP3 Player via Bluetooth
+# NOT coming soon
+Features Lollipop will never get
+- Games or any other stuff like that
+- Browser

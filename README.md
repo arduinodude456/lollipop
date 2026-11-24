@@ -12,6 +12,7 @@ Just download KoboRoot.tgz from releases and put it into (eReader)/.kobo dir.
 # Coming soon
 Because Lollipop is still in beta, here are some features the next versions will have:
 - Bookshelf sync (Bookorbit, Kobo, Amazon, Libby[?])
+- Onleihe (for Germany) 
 - Own reading engine
 - Multi user
 - MP3 Player via Bluetooth
